@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+	<comment>English (en_US) Localization File</comment>
+	<entry key="tile.Lamp0.name">Black Lamp</entry>
+	<entry key="tile.Lamp1.name">Red Lamp</entry>
+	<entry key="tile.Lamp2.name">Green Lamp</entry>
+	<entry key="tile.Lamp3.name">Brown Lamp</entry>
+	<entry key="tile.Lamp4.name">Blue Lamp</entry>
+	<entry key="tile.Lamp5.name">Purple Lamp</entry>
+	<entry key="tile.Lamp6.name">Cyan Lamp</entry>
+	<entry key="tile.Lamp7.name">Light Gray Lamp</entry>
+	<entry key="tile.Lamp8.name">Gray Lamp</entry>
+	<entry key="tile.Lamp9.name">Pink Lamp</entry>
+	<entry key="tile.Lamp10.name">Lime Lamp</entry>
+	<entry key="tile.Lamp11.name">Yellow Lamp</entry>
+	<entry key="tile.Lamp12.name">Light BlueLamp</entry>
+	<entry key="tile.Lamp13.name">Magenta Lamp</entry>
+	<entry key="tile.Lamp14.name">Orange Lamp</entry>
+	<entry key="tile.Lamp15.name">White Lamp</entry>
+	<entry key="itemGroup.SC">Sacred Craft</entry>
+</properties>

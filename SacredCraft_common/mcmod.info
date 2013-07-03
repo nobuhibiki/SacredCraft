@@ -1,0 +1,20 @@
+[
+{
+  "modid": "SC",
+  "name": "Sacred Craft",
+  "description": "Mod By me",
+  "version": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "SacredWKnight"
+  ],
+  "credits": "By Sacred, Ton Of Help from MouseTutorial",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
